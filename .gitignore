@@ -35,3 +35,6 @@ xcuserdata/
 
 # End of https://www.gitignore.io/api/xcode
 *.xcbkptlist
+/.swiftpm
+.DS_Store
+/.build
